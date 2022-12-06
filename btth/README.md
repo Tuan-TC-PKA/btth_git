@@ -10,7 +10,7 @@ git config --golbal user.emai "abc@zy.com"
 
 ## Phần 2 - Khởi tạo Git repo
 
-Lệnh để khởi tạo Git repo là: git init
+Lệnh để khởi tạo Git repo là:` git init`
 
 ## Phần 3 - Commit
 
